@@ -2,25 +2,43 @@
 
 .color2 {
   background: lightgray;
-  height: 20vh;
+  height: 14vh;
   width: 100%;
-  width: calc(100/3)%;
-  float:left;
+  padding: 10px 0 0 10px; 
 }
 
 .color3 {
-  background: #33ffad;
-  height: 20vh;
+  background: white;
+  height: 30vh;
   width: 100%;
 
 }
 .color4 {
-  background: white;
-  height: 20vh;
+  background: blue;
+  height: 14vh;
+  width: 100%;
+  color: white;
+}
+.color5 {
+  background: #4dffb8;
+  height: 14vh;
+  width: 100%;
+  color: white;
+}
+.color6 {
+  background: #86b300;
+  height: 14vh;
   width: 100%;
   color: white;
 }
 body{
   margin: 0;
+  background: yellow;
+}
+.square {
   background: blue;
+  height: 75px;
+  width: 75px;
+
+
 }
