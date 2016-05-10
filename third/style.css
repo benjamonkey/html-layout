@@ -1,0 +1,26 @@
+
+
+.color2 {
+  background: lightgray;
+  height: 20vh;
+  width: 100%;
+  width: calc(100/3)%;
+  float:left;
+}
+
+.color3 {
+  background: #33ffad;
+  height: 20vh;
+  width: 100%;
+
+}
+.color4 {
+  background: white;
+  height: 20vh;
+  width: 100%;
+  color: white;
+}
+body{
+  margin: 0;
+  background: blue;
+}
